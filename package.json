@@ -1,0 +1,23 @@
+{
+  "name": "studbuda3",
+  "version": "1.0.0",
+  "description": "A study tool",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angle270/StudBudA3.git"
+  },
+  "keywords": [
+    "study",
+    "online"
+  ],
+  "author": "Angela Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angle270/StudBudA3/issues"
+  },
+  "homepage": "https://github.com/angle270/StudBudA3#readme"
+}
