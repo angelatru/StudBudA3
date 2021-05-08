@@ -23,5 +23,8 @@
   "homepage": "https://github.com/angle270/StudBudA3#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
   }
 }
