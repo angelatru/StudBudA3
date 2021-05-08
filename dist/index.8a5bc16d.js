@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
-	<title>repl.it</title>
-	<link href="/index.0c72b7db.css" rel="stylesheet" type="text/css">
-</head>
-
-<body class="app-container">
-	<h1>Hello World Wide Web</h1>
-	<p>This time with <a href="https://expressjs.com/">Express</a> + <a href="https://v2.parceljs.org/">Parcel</a> + <a href="https://sass-lang.com/">SASS (SCSS)</a>!</p>
-	<script src="/index.8a5bc16d.js">// modules are defined as an array
+// modules are defined as an array
 // [ module function, map of requires ]
 //
 // map of requires is short require name -> numeric require
@@ -153,12 +140,12 @@
       this[globalName] = mainExports;
     }
   }
-})({"ZmTOp":[function(require,module,exports) {
+})({"27Rzb":[function(require,module,exports) {
 var HMR_HOST = null;
 var HMR_PORT = 1234;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "d751713988987e9331980363e24189ce";
-module.bundle.HMR_BUNDLE_ID = "08744b5a5be9e3478d01364ed0e492f1";
+module.bundle.HMR_BUNDLE_ID = "97912cc17f1f5bdf37964fbc8a5bc16d";
 // @flow
 /*global HMR_HOST, HMR_PORT, HMR_ENV_HASH, HMR_SECURE*/
 /*::
@@ -454,11 +441,8 @@ id) /*: string*/
   acceptedAssets[id] = true;
 }
 
-},{}],"7I7rx":[function(require,module,exports) {
+},{}],"4OAbU":[function(require,module,exports) {
 
-},{}]},["ZmTOp","7I7rx"], "7I7rx", "parcelRequirefe09")
+},{}]},["27Rzb","4OAbU"], "4OAbU", "parcelRequirefe09")
 
-</script>
-</body>
-
-</html>
+//# sourceMappingURL=index.8a5bc16d.js.map
