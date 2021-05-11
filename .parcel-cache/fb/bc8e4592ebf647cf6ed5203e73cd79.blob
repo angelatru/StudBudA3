@@ -1,0 +1,8 @@
+nav {
+  width: 100;
+  background-color: #c7befd;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+/*# sourceMappingURL=index.HASH_REF_a2969fb3e9e25ede14e378b3144aeba6.css.map */
